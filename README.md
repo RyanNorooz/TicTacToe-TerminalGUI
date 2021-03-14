@@ -10,4 +10,4 @@ The pattern on the right side tells you the corresponding number for each slot.
 
 ### **Future plans:**
 - Opponent AI Player  
-- Difficulty level
+- Difficulty levels
