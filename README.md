@@ -2,10 +2,12 @@
 
 ### **PvP TicTacToe battle**
 
-![Screenshot_0](Screenshot0.png)
-The pattern on the right side tells you the corresponding number for each slots.
-![Screenshot_1](Screenshot1.png)
+<img src="Screenshot0.png" alt="Screenshot" width="450" />
 
-## Future plans:
-> Opponent AI Player  
-> Difficaulty level
+The pattern on the right side tells you the corresponding number for each slot.
+
+<img src="Screenshot1.png" alt="Screenshot" width="450" />
+
+### **Future plans:**
+- Opponent AI Player  
+- Difficulty level
